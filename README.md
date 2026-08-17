@@ -160,7 +160,7 @@ The Power BI dashboard provides an interactive view of transaction and customer 
 
 ### Dashboard Preview
 
-![PhonePe Dashboard](Screenshots/PhonePe_Dashboard.png)
+![PhonePe Dashboard](C:\Users\Hi\OneDrive\Pictures\Screenshots)
 
 > Place your final dashboard screenshot inside the `Screenshots` folder using the filename `PhonePe_Dashboard.png`.
 
@@ -182,9 +182,11 @@ The analysis highlights several important patterns in the transaction data:
 ## 🗂️ Project Structure
 
 ```text
-PhonePe-Transaction-Customer-Analytics/
+PhonePe_Transaction_Customer_Analytics/
 │
-├── README.md
+├── PowerBI/
+│   ├── PhonePe_Dashboard.png
+│   └── PhonePe_Transaction_Customer_Analytics.pbix
 │
 ├── SQL/
 │   ├── 01_Data_Validation.sql
@@ -194,14 +196,9 @@ PhonePe-Transaction-Customer-Analytics/
 │   ├── 05_Payment_Analysis.sql
 │   └── 06_Customer_Analysis.sql
 │
-├── PowerBI/
-│   └── PhonePe_Transaction_Customer_Analytics.pbix
+├── PhonePe-Final-Dataset.xlsb
 │
-├── Data/
-│   └── PhonePe-Final-Dataset.xlsx
-│
-└── Screenshots/
-    └── PhonePe_Dashboard.png
+└── README.md
 ```
 
 ---
