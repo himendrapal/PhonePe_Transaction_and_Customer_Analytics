@@ -162,8 +162,6 @@ The Power BI dashboard provides an interactive view of transaction and customer 
 
 ![PhonePe Dashboard](./PowerBI/PhonePe_Dashboard.png)
 
-> Place your final dashboard screenshot inside the `Screenshots` folder using the filename `PhonePe_Dashboard.png`.
-
 ---
 
 ## 💡 Key Insights
