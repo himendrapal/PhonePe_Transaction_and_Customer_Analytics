@@ -160,7 +160,7 @@ The Power BI dashboard provides an interactive view of transaction and customer 
 
 ### Dashboard Preview
 
-![PhonePe Dashboard](C:\Users\Hi\OneDrive\Pictures\Screenshots)
+![PhonePe Dashboard](./PowerBI/PhonePe_Dashboard.png)
 
 > Place your final dashboard screenshot inside the `Screenshots` folder using the filename `PhonePe_Dashboard.png`.
 
